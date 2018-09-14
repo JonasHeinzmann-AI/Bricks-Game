@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jonhei/Downloads/bricks/Bricks/Content/ball.png</File>
+    <File>C:/Users/jonhei/Downloads/bricks/Bricks/Content/brick.png</File>
+    <File>C:/Users/jonhei/Downloads/bricks/Bricks/Content/BrickSound.wav</File>
+    <File>C:/Users/jonhei/Downloads/bricks/Bricks/Content/MissSound.wav</File>
+    <File>C:/Users/jonhei/Downloads/bricks/Bricks/Content/Paddle.png</File>
+    <File>C:/Users/jonhei/Downloads/bricks/Bricks/Content/PaddleBounceSound.wav</File>
+    <File>C:/Users/jonhei/Downloads/bricks/Bricks/Content/pixel.png</File>
+    <File>C:/Users/jonhei/Downloads/bricks/Bricks/Content/StartSound.wav</File>
+    <File>C:/Users/jonhei/Downloads/bricks/Bricks/Content/WallBounceSound.wav</File>
+    <File>C:/Users/jonhei/Downloads/bricks/Bricks/Content/Arial20.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
